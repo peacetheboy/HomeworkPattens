@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNwmInOB0Vw1HGeiVZ0VYa67V1WoOeZu3zaKh7ExzRKYE4LDnE/ZuiTmuNdFUtPbIOYrUv+q5I00ktiww4hCBA==",
+  "dgSpecHash": "GCrxv/viIJi3cJQhmtCQdEVukecITqsbVMHMuJJ1szgkCjyeMDTn5MavxVK1FbjUgTw7f3w3zyfSdEyiXZe24Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\HomeworkPrac\\HomeworkPrac\\HomeworkPrac.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\HomeworkPattens\\HomeworkPrac\\HomeworkPrac\\HomeworkPrac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
