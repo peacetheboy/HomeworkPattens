@@ -19,6 +19,7 @@ namespace HomeworkPrac.Data
 
         public virtual DbSet<Product> Products { get; set; } = null!;
         public virtual DbSet<Service> Services { get; set; } = null!;
+        public object Service { get; internal set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
