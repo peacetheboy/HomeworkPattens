@@ -16,54 +16,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\user\Source\Repos\HomeworkPattens\HomeworkPrac\HomeworkPrac
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Error.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Index.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Privacy.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/_ViewImports.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/_ViewStart.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Create.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Delete.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Details.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Edit.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Index.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Source/Repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Shared/_Layout.cshtml]
+[C:/Users/user/source/repos/HomeworkPattens/HomeworkPrac/HomeworkPrac/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-saor7buhw3
