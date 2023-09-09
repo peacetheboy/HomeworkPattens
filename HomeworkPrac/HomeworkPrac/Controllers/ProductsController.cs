@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using HomeworkPrac.Data;
 using HomeworkPrac.Models;
+using HomeworkPrac.Reopository;
 
 namespace HomeworkPrac.Controllers
 {
@@ -22,6 +23,8 @@ namespace HomeworkPrac.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
+              ProductRepository productRepository = new ProductRepository();
+              var results = productRepository.GetAll();
               return _context.Products != null ? 
                           View(await _context.Products.ToListAsync()) :
                           Problem("Entity set 'practicedbContext.Products'  is null.");
