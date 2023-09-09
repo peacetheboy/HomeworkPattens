@@ -47,5 +47,15 @@ namespace HomeworkPrac.Reopository
             _context.Set<T>().RemoveRange(entities);
 
         }
+
+        void IGenericRepository<T>.Update(T entity)
+        {
+            _context.Set<T>().Update(entity);
+        }
+
+        void IGenericRepository<T>.Update(IEnumerable<T> entity)
+        {
+             _context.Set<T>().Update((T)entity);
+        }
     }
 }

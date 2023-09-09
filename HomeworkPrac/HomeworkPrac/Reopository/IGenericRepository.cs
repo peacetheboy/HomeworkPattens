@@ -13,5 +13,8 @@ namespace HomeworkPrac.Reopository
         void AddRange(IEnumerable<T> entities);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
+        void Update(T entity);
+        void Update(IEnumerable<T> entity);
+
     }
 }
